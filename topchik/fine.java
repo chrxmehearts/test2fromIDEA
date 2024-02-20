@@ -6,8 +6,9 @@ public class fine {
             System.out.println("Hi" + i);
         }
         int temp = 0;
-        for(int i = 0; i <50; i++){
-            temp+=i
-                }
+        for (int i = 0; i < 50; i++) {
+            temp += i;
+        }
+        System.out.println(temp);
     }
 }
